@@ -1,4 +1,4 @@
-# Siryze Software Solutions
+# PlanBTech Software Solutions
 
 ![Siryze Software Banner](https://via.placeholder.com/800x400)
 
@@ -85,14 +85,6 @@ Tem um projeto em mente? Entre em contato conosco para discutir como podemos aju
         <img src="https://avatars.githubusercontent.com/u/142646131?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>João Gabriel Vianna</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="Victor Ramos">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Victor Ramos</b>
         </sub>
       </a>
     </td>
